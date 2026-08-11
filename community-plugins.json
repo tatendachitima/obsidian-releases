@@ -46037,5 +46037,12 @@
     "author": "Axel Rea Eklund",
     "description": "A straightforward, easy-to-use flashcard quizzer and editor that uses standard CSV files. Features native compatibility with NotebookLM exports and skips the complicated spaced repetition for a no-fuss study experience. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "axelreaeklund/csv-flashcard-obsidian-plugin"
+  },
+  {
+    "id": "obsidian-meal-planner",
+    "name": "Meal Planner",
+    "author": "Tatenda Chitima",
+    "description": "Plan meals, manage recipes, track pantry and shopping, and sync meals into daily notes.",
+    "repo": "tatendachitima/obsidian-meal-planner"
   }
 ]
